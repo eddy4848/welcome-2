@@ -65,7 +65,7 @@
     color: white;
 
 }
-.back button {
+.bb {
     width: 120px ;
     border: 1px solid #fff;
     background: transparent;
@@ -74,6 +74,7 @@
     cursor: pointer;
     margin-top : 20px;
     color: white;
+    transform: rotateY(180deg);
 
 }
 .back{
