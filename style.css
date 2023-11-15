@@ -65,7 +65,7 @@
     color: white;
 
 }
-.bb {
+.back button {
     width: 120px ;
     border: 1px solid #fff;
     background: transparent;
@@ -74,7 +74,7 @@
     cursor: pointer;
     margin-top : 20px;
     color: white;
-    transform: rotateY(180deg);
+    
 
 }
 .back{
@@ -130,7 +130,7 @@ font-size: 20px;
 .col p{
     margin-top: 5px;
 }
-.back button{
+/* .back button{
     background: #7800ad;
     color:#fff;
     border: 0;
@@ -140,7 +140,7 @@ font-size: 20px;
     font-size: 14px;
     margin-right: 15px;
     box-shadow: 0 8px 10px rgba(120,  0, 173, 0.3);
-}
+} */
 .back a{
     width: 40px;
     height: 40px;
